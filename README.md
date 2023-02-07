@@ -1,4 +1,7 @@
-### Hi there 👷‍♂️
+# Hi there, welcome to My GitHub Profile! 👷‍
+
+Thanks for visiting my GitHub profile!
+
 
 <!--
 **paddy313/paddy313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
